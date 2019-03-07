@@ -1,0 +1,5 @@
+APP_NAME: openbankdevabinav
+MS_NAME: openbankservice
+BRANCH: master
+GIT_SOURCE_URL: https://github.com/himanshumps/openbankservice.git
+SONAR_HOST_URL: http://sonar-openbankdevabinav-cicd.52.172.12.252.nip.io
